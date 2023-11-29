@@ -17,7 +17,7 @@ reports take priority. If you have a support contract, you should raise issues v
 
 ## Filing issues
 
-1. Use the [`Issues`](https://github.com/puppetlabs/cem_issues/issues) tab above to get started
+1. Use the [`Issues`](https://github.com/puppetlabs/puppet-enterprise_issues/issues) tab above to get started
 1. Search through the existing queue to see if your concern has already been reported. 
     * If it has been, then comment with any additional information or react with a 👍
       to add your support. You’ll get any future notifications of activity on that ticket.
