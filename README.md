@@ -1,13 +1,13 @@
 # Public Puppet Enterprise Issue Reporting
 
 This repository will allow public community members to file bug reports, doc change
-requests, and feature request against Puppet Enterprise and closed source components.
-If you're filing an issue on an open source project such as Puppet or Facter, please
-use those repositories directly.
+requests, and feature request against Puppet Enterprise and its components, such as
+the PE management modules. If you're filing an issue on an open source project such
+as Puppet or Facter, please use those repositories directly.
 
-The PE Engineering teams regularly monitors and triages issues and requests
-here. Planning and roadmap activity takes place internally, so you may not see much
-activity until engineering begins actively working on a reported issue.
+The PE Product team regularly monitors and triages issues and requests here. Planning
+and roadmap activity takes place internally, so you may not see much activity until
+engineering begins actively working on a reported issue.
 
 :bulb: Note that there are no SLA agreements for issues filed in this way and customer
 reports take priority. If you have a support contract, you should raise issues via
